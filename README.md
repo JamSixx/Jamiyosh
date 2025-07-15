@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamiyosh
+- 👋 Hi, I’m @JamSixx
 - 👀 I’m interested in topics as biotechonology, genomics, agriculture, epidemiology, and more...
 - 🌱 I’m currently learning and developping for Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on research centers for agriculuture, plant genetics and sustainable development
